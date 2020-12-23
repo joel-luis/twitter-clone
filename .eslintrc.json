@@ -28,6 +28,7 @@
     "eslintimport/export": "off",
     "camelcase": "off",
     "no-use-before-define": "off",
+    "react/prop-types": 0,
     "eol-last": 0,
     "semi": "off",
     "import/extensions": [

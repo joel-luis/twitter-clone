@@ -71,7 +71,7 @@ export const MenuButton = styled.button`
     margin-top: 16px;
   }
 
-  & + button::last-child {
+  & + button:last-child {
     margin-top: 33px;
     width: 40px;
     height: 40px;
